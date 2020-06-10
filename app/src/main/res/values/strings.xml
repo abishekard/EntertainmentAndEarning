@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">E&amp;E</string>
+
+    <string name="admob_app_id">
+ca-app-pub-1758516945357182~5962006991</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="instruction">
+        <ul>
+        <li>1. Minimum 200 points required for withdrawal</li>  \n
+        <li>2. 24-48 hours is required for payment procedure.</li> \n
+        <li>3. Enter paytm number only.</li>\n
+        <li>4. Enter number carefully.</li>\n
+            <li>5. Any dispute regarding payment, please feedback us.</li></ul>
+    </string>
+    <string name="instruction2">
+        1.  Use any of the apps in home      page to earn points.\n
+        2.  for every 15 min 2 points will be rewarded.\n
+        3.  collect as much points you can.\n
+        4.  minimum 200 points is required for withdrawal.\n
+    </string>
+    <string name="bannerAd">ca-app-pub-3940256099942544/6300978111</string>
+
+
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#34439B</color>
+    <color name="colorPrimaryDark">#25388B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="lightback">#1affffff</color>
+    <color name="mediumback">#66ffffff</color>
+    <color name="dark">#ccffffff</color>
+    <color name="tool1">#84ECC9</color>
+    <color name="tool2">#7C80E2</color>
+    <color name="tool3">	#410000</color>
+    <color name="black">#2B0808</color>
+    <color name="white">#f7f7f7</color>
+    <color name="red">#03FFE7</color>
+    <color name="orange">#FF9800</color>
+</resources>
